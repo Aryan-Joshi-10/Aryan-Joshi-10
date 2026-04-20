@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Aryan Joshi</h1>
-<p><em>CS & AI Engineer &nbsp;·&nbsp; LLMs · RAG · Databases</em></p>
+<p><em>CSE & AI Engineer &nbsp;·&nbsp; LLMs · RAG · Databases</em></p>
 
 </div>
 
