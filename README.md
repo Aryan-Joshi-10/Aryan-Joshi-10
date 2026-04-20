@@ -3,13 +3,10 @@
 <h1>Aryan Joshi</h1>
 <p><em>CS & AI Engineer &nbsp;·&nbsp; LLMs · RAG · Databases</em></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-joshi-7065a92b0/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.joshi23@vit.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryan-Joshi-10)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aryan-Joshi-10&color=00ff88&style=flat-square&label=Profile+Views)
-
 </div>
+
+🎓 B.Tech in Computer Science and Engineering (AI)  
+💻 AI Engineer | Tech Enthusiast
 
 ---
 
@@ -69,12 +66,17 @@ aryan = {
 
 <div align="center">
 
-[![@aryanjoshi10's Holopin board](https://holopin.me/aryanjoshi10)](https://holopin.io/@aryanjoshi10)
+<img src="https://github.com/user-attachments/assets/1464901d-56e5-4c0b-8e76-a6224b20f0f0" alt="Hacktoberfest 2024 Level 1 Badge" width="260"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/7b5b7b6c-1180-4371-92ed-a62ac0b9fbbb" alt="Hacktoberfest 2024 Level 2 Badge" width="260"/>
 
-</div>
+<br/>
 
-| 🎃 Hacktoberfest 2024 — Level 2 | Awarded for 2+ accepted open source PRs |
-|---|---|
+<p align="center">  
+<b>🎃 Hacktoberfest 2024</b><br/>  
+Level 1 & Level 2 — Awarded for open source contributions  
+</p>
+
 
 ---
 
